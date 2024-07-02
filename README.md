@@ -1,0 +1,1 @@
+# jenkins-example-shared-library-trusted
